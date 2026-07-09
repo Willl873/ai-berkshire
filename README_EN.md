@@ -205,6 +205,7 @@ Ask AI directly, and you have one context window. Four parallel Agents means 4×
 | Skill | Purpose | When to Use |
 |-------|---------|-------------|
 | [`/dyp-ask`](skills/dyp-ask.md) | Duan Yongping Q&A | Think through any question the Duan Yongping way — business, investing, life |
+| [`/pl-ask`](skills/pl-ask.md) | Peter Lynch Q&A | Think through any question the Peter Lynch way — stock picking, investing, life |
 | [`/financial-data`](skills/financial-data.md) | Financial data retrieval & cross-validation | Ensure key data comes from 2+ independent sources; alerts on >1% deviation |
 | [`/wechat-article`](skills/wechat-article.md) | WeChat article workflow | Author, editor, and reader Agents collaborate to produce a publishable article |
 

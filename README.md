@@ -215,6 +215,7 @@ AI Berkshire 确保：**同样的输入 → 结构一致、深度一致的输出
 | Skill | 用途 | 适合场景 |
 |-------|------|---------|
 | [`/dyp-ask`](skills/dyp-ask.md) | 段永平问答 | 以段永平的方式思考任何问题——商业、投资、人生 |
+| [`/pl-ask`](skills/pl-ask.md) | 彼得·林奇问答 | 以彼得·林奇的方式思考任何问题——选股、投资、人生 |
 | [`/financial-data`](skills/financial-data.md) | 财务数据获取与交叉验证规范 | 确保关键数据来自2个独立来源，误差>1%告警 |
 | [`/wechat-article`](skills/wechat-article.md) | 微信公众号文章 | 作者、编辑、读者三Agent协作，产出可发布文章 |
 
